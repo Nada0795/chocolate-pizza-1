@@ -1,10 +1,73 @@
 
 
-nav ul li {
-display: inline-block;
-
+hr {
+    height: 10px;
+    background-color: black;
 }
-
-#logo-left{
+nav ul li {
+    display: inline-block;
+    }
+ h2 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+ }
+#leftlogo{
     float: left;
+}
+.nav2 {
+    float: right;
+}
+.logotext {
+    float: right;
+}
+.left-step {
+    float: left;
+    padding-right: 300px;
+}
+ .right-step{
+    float: right;
+}
+.formlist{
+    background-image: url(./images/list-bg.png);
+    background-size: 800px;
+    background-repeat: no-repeat;
+}
+.rightbutton {
+    float: right;
+}
+h1 {
+    font-weight: bold;
+}
+p {
+    color: gray;
+}
+.printimg{
+    float: right;
+}
+ .group2 {
+    float: right;
+    padding-right: 550px;
+}
+/* footer p {
+    padding-left: 600px;
+} */
+footer  {
+    padding-left: 600px;
+}
+footer img{
+    padding-left: 100px;
+}
+main {
+    clear: both;
+}
+.button {
+    background-color: brown; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-right: -1300px;
 }
