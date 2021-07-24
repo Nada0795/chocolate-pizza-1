@@ -10,6 +10,7 @@ nav ul li {
  h2 {
     font-family: 'Dancing Script', cursive;
     font-size: 40px;
+    margin-top: 0;
  }
 #leftlogo{
     float: left;
@@ -40,6 +41,7 @@ h1 {
 }
 p {
     color: gray;
+    
 }
 .printimg{
     float: right;
